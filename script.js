@@ -1,7 +1,12 @@
-console.log("Hello, World!");
+console.log("Script started");
+
+let name = "Donghyeon Kim";
+console.log("Name variable created");
+
+alert("Welcome to my page!");
+alert("My name is " + name);
+
 console.error("This is my first JavaScript error!");
-alert("Donghyeon Kim");
-alert("Joshua Garnett");
-alert("Jacob Roginski");
-alert("Jonathan Luna");
-alert("Nidhi Lalwani");
+
+console.log("Script finished");
+
